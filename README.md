@@ -21,8 +21,6 @@ Type in your command line, then just answer questions !
 and just answer questions!
 you will get unaligned amplicons and aligned amplicons with a tree 
 
-## This tool can be used if..
-You want to comapare many models to select the better for your data.
 
 ## Contributing
 Every thing is clear right. But, contact me directly on email : drahmedsherbini@yahoo.com
