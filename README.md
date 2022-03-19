@@ -27,4 +27,4 @@ You want to comapare many models to select the better for your data.
 ## Contributing
 Every thing is clear right. But, contact me directly on email : drahmedsherbini@yahoo.com
 ## License
-This tool aims to help others. Kindly, cite Egon (https://github.com/egonozer/in_silico_pcr) and my git hub page !
+This tool aims to help others. Kindly, cite Egon (https://github.com/egonozer/in_silico_pcr) and my github page !
