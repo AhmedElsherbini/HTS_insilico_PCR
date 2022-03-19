@@ -1,6 +1,6 @@
 # HTS_insilico_PCR
 
-This bash script aims to use Egon's perl script with hunderds or thousands of genomes. Absoultly you should have good computer to do it!!
+This bash script aims to use Egon's perl script ((https://github.com/egonozer/in_silico_pcr) ) with hunderds or thousands of genomes. Absoultly you should have good computer to do it!!
 
 ## Usage
 Make sure that you have mafft (install it via conda or apt) !
