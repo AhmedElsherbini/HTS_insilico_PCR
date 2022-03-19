@@ -1,16 +1,11 @@
 # HTS_insilico_PCR
-# Easy_ML_compare
-
 
 This bash script aims to use Egon's perl script with hunderds or thousands of genomes. absoultly you should have good computer to do it!!
 
-
-## Installation
-
-Make sure that you have mafft (install it via conda or apt) !
-
 ## Usage
-For your own comfort, make sure you have the files in the same directory as the tool!
+Make sure that you have mafft (install it via conda or apt) !
+For your own comfort, make sure you have the (*.fna) genomes files in the same directory as perl and bash script !
+
 Type in your command line, then just answer questions !
 
 
@@ -18,8 +13,7 @@ Type in your command line, then just answer questions !
 ./HTS_PCR.sh
 
 ```
-and just answer questions!
-you will get unaligned amplicons and aligned amplicons with a tree 
+You will get unaligned amplicons and aligned amplicons with a tree 
 
 
 ## Contributing
