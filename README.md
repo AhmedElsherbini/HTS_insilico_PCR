@@ -15,7 +15,7 @@ Type in your command line, then just answer questions !
 
 
 ```python
-Bash  HTS_pcr.sh
+Bash  HTS_PCR.sh
 
 ```
 and just answer questions!
