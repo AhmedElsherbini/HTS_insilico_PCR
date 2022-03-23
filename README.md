@@ -5,7 +5,7 @@ This bash script aims to use Egon's perl script ((https://github.com/egonozer/in
 ## Usage
 Make sure that you have mafft (install it via conda or apt) !
 
-Also, you should have the (*.fna) genomes files in the same directory as perl and bash script !
+Also, you should have the (*.fna) genomes files in the same directory as the perl and the bash script !
 
 Type in your command line, then just answer questions !
 
