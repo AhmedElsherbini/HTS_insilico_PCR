@@ -8,10 +8,10 @@ read cc
 echo "Please, The reverse primer?"
 read dd
 
-echo "Allowed mismatch like (2,3,..)?"
+echo "Allowed primer mismatches like (2,3,..)?"
 read i
 
-echo "Allowed indels like (2,3,..)?"
+echo "Allowed primer indels like (2,3,..)?"
 read ii
 #################################################################
 for file in *.fna;
