@@ -1,7 +1,6 @@
 #made on 10 1.02.2022
 # "Hi, this is Ahmed Elsherbini's HTS-PCR script"
 echo "this script is based on https://github.com/egonozer/in_silico_pcr.Make sure his perl script and my bash script are in the same dir of the genomes with (.fna extension)"
-echo "do not forget mafft so I can align your amplicons"
 ###################################################################
 echo "So, enough speaking, what is the forward primer?"
 read cc
