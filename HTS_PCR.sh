@@ -5,7 +5,7 @@ echo "ohh,also, have mafft so I can align your amplicons"
 ###################################################################
 echo "So, enough speaking, what is the forward primer?"
 read cc
-echo "Please, The reverse primer?"
+echo "Please, the reverse primer?"
 read dd
 
 echo "Allowed primer mismatches like (2,3,..)?"
