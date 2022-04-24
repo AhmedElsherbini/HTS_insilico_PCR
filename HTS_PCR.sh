@@ -25,7 +25,7 @@ sed "1s/amp_1/&_${file//./_}/" amplicons_$file.fasta > new_amplicons_$file.fasta
 
 done
 cat new_amplicons* > unaligned_amplicons.fasta
-#if you have too must 
+#if you have too much 
 mafft  --treeout unaligned_amplicons.fasta > aligned_amplicons.fasta
 
 
@@ -33,7 +33,7 @@ rm -r results*
 rm -r amplicons*
 rm -r new_amplicons*
 
-mv unaligned_amplicons.fasta.tree phylogentic_amplicons.tree
+mv unaligned_amplicons.fasta.tree tree_amplicons.tree
 
 echo "See you soon my friend (Ahmed):))"
 ##################################################
