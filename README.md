@@ -22,4 +22,4 @@ You will get unaligned amplicons and aligned amplicons with a tree
 ## Contributing
 Everything is clear right? But anyhow, contact here or directly via email : drahmedsherbini@yahoo.com
 ## License
-This tool aims to help others. Kindly, cite Egon (https://github.com/egonozer/in_silico_pcr) and my github page !
+This tool aims to help others. Kindly, cite [Egon](https://github.com/egonozer/in_silico_pcr) and my github page !
