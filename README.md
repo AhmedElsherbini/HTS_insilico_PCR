@@ -2,7 +2,7 @@
 High-throughput screening of In silico PCR
 
 
-This bash script aims to use Egon's perl script ((https://github.com/egonozer/in_silico_pcr) ) with hunderds or thousands of genomes. Absolutely, you should have good computer (speaking of RAMs) to do it!!
+This bash script aims to use Egon's perl [script](https://github.com/egonozer/in_silico_pcr) with hunderds or thousands of genomes. Absolutely, you should have good computer (speaking of RAMs) to do it!!
 
 ## Usage
 Make sure that you have mafft (install it via conda or apt) !
